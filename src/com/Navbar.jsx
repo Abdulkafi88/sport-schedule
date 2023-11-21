@@ -3,7 +3,16 @@ import React from 'react'
 export const Navbar = () => {
   return (
         <>
-        <h1>this the nav bar page</h1>
+       <div className="con">
+                        <div className="logo">logo</div>
+                        <nav>
+                            <ul>
+                                <li><a href="#">home</a></li>
+                                <li><a href="#">home</a></li>
+                                <li><a href="#">home</a></li>
+                            </ul>
+                        </nav>
+       </div>
         
         </>
   )
