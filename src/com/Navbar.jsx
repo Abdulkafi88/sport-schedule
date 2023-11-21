@@ -1,5 +1,5 @@
 import React from 'react'
-
+import allPic from './images/allSports.jpg'
 export const Navbar = () => {
   return (
         <>
@@ -20,7 +20,7 @@ export const Navbar = () => {
               </ul>
             </nav>
           <div className="sidePic">
-            <img src="/images/allSports.jpg" alt="" />
+            <img src="./images/allSports.jpg" alt="" />
           </div>
           
 
