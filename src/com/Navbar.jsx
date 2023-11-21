@@ -19,6 +19,10 @@ export const Navbar = () => {
                 <li><a href="#">NHL</a></li>
               </ul>
             </nav>
+          <div className="sidePic">
+            <img src="/images/allSports.jpg" alt="" />
+          </div>
+          
 
             </div>
         
