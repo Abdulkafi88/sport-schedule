@@ -1,9 +1,26 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+.con{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  margin: 0 10px;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+
+}
+
+li{
+  margin: 0 2rem;
+}
 .cont{
     display: flex;
     justify-content: space-between;
@@ -34,9 +51,11 @@ a{
     
 }
 
+
 a{
     text-decoration: none;
     color: white;
     text-transform: uppercase;
     
 }
+

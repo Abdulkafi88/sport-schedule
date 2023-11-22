@@ -5,6 +5,19 @@ import allPic from './images/allSports.jpg';
 export const Navbar = () => {
   return (
         <>
+<<<<<<< HEAD
+       <div className="con">
+                        <div className="logo">logo</div>
+                        <nav>
+                            <ul>
+                                <li><a href="#">home</a></li>
+                                <li><a href="#">home</a></li>
+                                <li><a href="#">home</a></li>
+                            </ul>
+                        </nav>
+       </div>
+=======
+>>>>>>> origin/main
         
         
           <div className="cont">
